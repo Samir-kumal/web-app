@@ -1,9 +1,22 @@
 # A Simple web-app that shows list of developers available from api
 
-# Simply clone the project then navigte to the project directory
- git clone <url>
-# TO RUN
-1. npm install
-2. npm run dev
+## Simply clone the project 
+```bash
+ git clone https://github.com/Samir-kumal/web-app
+```
+## Then navigte to the project directory
+
+```bash 
+cd web-app
+```
+
+## open terminal and type
+```bash
+
+# Install dependencies and start development server
+
+npm install
+npm run dev
+```
 
 
